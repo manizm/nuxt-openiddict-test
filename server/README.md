@@ -1,5 +1,8 @@
 [![.NET](https://github.com/damienbod/AspNetCoreOpeniddict/actions/workflows/dotnet.yml/badge.svg)](https://github.com/damienbod/AspNetCoreOpeniddict/actions/workflows/dotnet.yml)
 
+# Note: Code taken from: https://github.com/damienbod/AspNetCoreOpeniddict and modified for personal test need
+# don't use this for production..its just for personal test
+
 # Implementing OpenID Code Flow PKCE using OpenIddict and Nuxt
 
 - Nuxt auth Code flow PKCE public client
