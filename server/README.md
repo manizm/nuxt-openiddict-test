@@ -1,8 +1,8 @@
 [![.NET](https://github.com/damienbod/AspNetCoreOpeniddict/actions/workflows/dotnet.yml/badge.svg)](https://github.com/damienbod/AspNetCoreOpeniddict/actions/workflows/dotnet.yml)
 
-# Implementing OpenID Code Flow PKCE using OpenIddict, Angular and Blazor
+# Implementing OpenID Code Flow PKCE using OpenIddict and Nuxt
 
-- Angular Code flow PKCE public client
+- Nuxt auth Code flow PKCE public client
 - Blazor WASM, ASP.NET Core hosted BFF Code flow PKCE, trusted client
 - API OAUTH2 introspection and reference tokens
 - OpenID Connect server implemented with OpenIddict
