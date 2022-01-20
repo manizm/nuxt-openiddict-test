@@ -5,6 +5,7 @@
 
 # Implementing OpenID Code Flow PKCE using OpenIddict and Nuxt
 
+- Uses Sqlite as database (different from base project)
 - Nuxt auth Code flow PKCE public client
 - Blazor WASM, ASP.NET Core hosted BFF Code flow PKCE, trusted client
 - API OAUTH2 introspection and reference tokens
